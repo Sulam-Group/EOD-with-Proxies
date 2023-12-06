@@ -11,12 +11,12 @@ Each of the folders refers to dataset/prediction task. To run a particular exper
 
 ## References
 ```
-@article{bharti2023estimating,
-  title={Estimating and Controlling for Equalized Odds via Sensitive Attribute Predictors},
-  author={Beepul Bharti and Paul Yi and Jeremias Sulam},
-  year={2023},
-  eprint={2207.12497},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+@inproceedings{
+bharti2023estimating,
+title={Estimating and Controlling for Equalized Odds via Sensitive Attribute Predictors},
+author={Beepul Bharti and Paul Yi and Jeremias Sulam},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=e2aCgjtjMR}
 }
 ```
